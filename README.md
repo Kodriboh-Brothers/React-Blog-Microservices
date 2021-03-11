@@ -1,5 +1,9 @@
 # React-Blog-Microservices
 
+## To Run This Project
+
+You will need to build each service, to do this cd into each repository and run the service (instructions are within each services README.md). Each service has an <code>npm start</code> script defined within its package.json.
+
 ## Introduction 
 
 Microservices allow for the division of features into self-contained services, allowing for teams to be split on the basis of expertise, different tools/langauges to be used interchangeably to fit the task of each service, and overall modularity within the application itself. 
